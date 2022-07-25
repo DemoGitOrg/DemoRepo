@@ -1,6 +1,6 @@
 # Apps 30 Demo Commands
 
-### Environment Variables Used
+### Environment Variables Used 
 
 ```
 resourceGroup=live-igniteapps30
